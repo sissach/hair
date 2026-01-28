@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lumina Hair Studio",
+  "description": "A luxury hair salon application featuring high-end service listings, elegant branding, and an integrated booking experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
